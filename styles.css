@@ -1,0 +1,73 @@
+body, header{
+position: relative;
+width: 1440px;
+height: 700px;
+
+background: #FFFFFF;
+}
+
+h1{
+position: absolute;
+width: 520px;
+height: 219px;
+left: 150px;
+top: 293px;
+
+font-family: Montaga;
+font-style: normal;
+font-weight: normal;
+font-size: 80px;
+line-height: 109.9%;
+/* or 88px */
+
+letter-spacing: 0.2em;
+
+color: #000000;
+}
+
+h2{
+position: absolute;
+width: 486px;
+height: 112px;
+left: 327px;
+top: 490px;
+
+font-family: Montaga;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 109.9%;
+/* or 55px */
+
+letter-spacing: 0.2em;
+
+color: #000000;
+}
+
+h3{
+position: absolute;
+width: 216px;
+height: 64px;
+left: 1140px;
+top: 472px;
+
+font-family: Montaga;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 109.9%;
+/* or 44px */
+
+letter-spacing: 0.2em;
+
+}
+
+h3 a{
+text-decoration: none;
+color: black;
+}
+
+span{
+font-size: 60px;
+margin-left: 20px;
+}
