@@ -2,7 +2,7 @@ body, header{
 position: relative;
 width: 1440px;
 height: 2368px;
-background: #FFFFFF;
+background: #EBDBFF;
 overflow-x: hidden;
 }
 
@@ -10,11 +10,11 @@ h1{
 position: absolute;
 width: 573px;
 height: 30px;
-left: 65px;
-top: 60px;
+left: 1073px;
+top: 40px;
 
 font-family: Montaga;
-font-style: normal;
+font-style: bold;
 font-weight: normal;
 font-size: 30px;
 line-height: 109.9%;
@@ -33,20 +33,25 @@ color: black;
 nav{
 position: absolute;
 width: 1157px;
-height: 21px;
-left: 800px;
-top: 211px;
+height: 280px;
+left: 70px;
+top: 127px;
 
-font-family: Gudea;
+
+font-family: Lato, sans-serif;
 font-style: normal;
 font-weight: normal;
-font-size: 15px;
+font-size: 20px;
 line-height: 109.9%;
-/* or 33px */
+/* or 22px */
 
 letter-spacing: 0.1em;
 
 color: #000000;
+}
+
+nav a:hover{
+color: white;
 }
 
 hr{
@@ -67,7 +72,7 @@ height: 386px;
 left: 84px;
 top: 435px;
 
-background: rgba(196, 196, 196, 0.42);
+background: #000000;
 }
 .rowone #eartwo{
 position: absolute;
@@ -76,7 +81,7 @@ height: 386px;
 left: 583px;
 top: 435px;
 
-background: rgba(196, 196, 196, 0.42);
+background: #000000;
 }
 
 .rowone #earthree{
@@ -86,7 +91,7 @@ height: 386px;
 left: 1083px;
 top: 435px;
 
-background: rgba(196, 196, 196, 0.42);
+background: #000000;
 
 }
 
@@ -97,7 +102,7 @@ height: 64px;
 left: 90px;
 top: 830px;
 
-font-family: Gudea;
+font-family: 'Raleway', sans-serif;
 font-style: normal;
 font-weight: normal;
 font-size: 20px;
@@ -115,37 +120,223 @@ position: absolute;
 width: 310px;
 height: 64px;
 left: 567px;
-top: 830px;
+top: 849px;
 
-font-family: Gudea;
+font-family: 'Raleway', sans-serif;
 font-style: normal;
 font-weight: normal;
 font-size: 20px;
 line-height: 109.9%;
-/* or 33px */
+/* or 22px */
 
 text-align: center;
-letter-spacing: 0.1em;
+letter-spacing: 0.115em;
 
 color: #000000;
 }
 
 .rowone h3{
 position: absolute;
-width: 245px;
+width: 310px;
 height: 64px;
-left: 1093px;
-top: 830px;
+left: 1083px;
+top: 849px;
 
-font-family: Gudea;
+font-family: 'Raleway', sans-serif;
 font-style: normal;
 font-weight: normal;
 font-size: 20px;
 line-height: 109.9%;
-/* or 33px */
+/* or 22px */
 
 text-align: center;
-letter-spacing: 0.1em;
+letter-spacing: 0.115em;
+
+color: #000000;
+}
+
+
+/* ROW TWO */
+
+.rowtwo #earone{
+position: absolute;
+width: 277px;
+height: 386px;
+left: 84px;
+top: 1039px;
+
+background: #000000;
+}
+.rowtwo #eartwo{
+position: absolute;
+width: 277px;
+height: 386px;
+left: 583px;
+top: 1039px;
+
+background: #000000;
+}
+
+.rowtwo #earthree{
+position: absolute;
+width: 277px;
+height: 386px;
+left: 1083px;
+top: 1039px;
+
+background: #000000;
+
+}
+
+.rowtwo h1{
+position: absolute;
+width: 245px;
+height: 64px;
+left: 100px;
+top: 1453px;
+
+font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 109.9%;
+/* or 22px */
+
+text-align: center;
+letter-spacing: 0.115em;
+
+color: #000000;
+}
+
+.rowtwo h2{
+position: absolute;
+width: 310px;
+height: 64px;
+left: 567px;
+top: 1453px;
+
+font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 109.9%;
+/* or 22px */
+
+text-align: center;
+letter-spacing: 0.115em;
+
+color: #000000;
+}
+
+.rowtwo h3{
+position: absolute;
+width: 310px;
+height: 64px;
+left: 1083px;
+top: 1453px;
+
+font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 109.9%;
+/* or 22px */
+
+text-align: center;
+letter-spacing: 0.115em;
+
+color: #000000;;
+}
+
+/* ROW THREE */
+
+.rowtres #earone{
+position: absolute;
+width: 277px;
+height: 386px;
+left: 84px;
+top: 1642px;
+
+background: #000000;
+}
+.rowtres #eartwo{
+position: absolute;
+width: 277px;
+height: 386px;
+left: 583px;
+top: 1635px;
+
+background: #000000;
+}
+
+.rowtres #earthree{
+position: absolute;
+width: 277px;
+height: 386px;
+left: 1083px;
+top: 1635px;
+
+background: #000000;
+
+}
+
+.rowtres h1{
+position: absolute;
+width: 310px;
+height: 64px;
+left: 51px;
+top: 2064px;
+
+font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 109.9%;
+/* or 22px */
+
+text-align: center;
+letter-spacing: 0.115em;
+
+color: #000000;
+
+}
+
+.rowtres h2{
+position: absolute;
+width: 310px;
+height: 64px;
+left: 550px;
+top: 2084px;
+
+font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 109.9%;
+/* or 22px */
+
+text-align: center;
+letter-spacing: 0.115em;
+
+color: #000000;
+}
+
+.rowtres h3{
+position: absolute;
+width: 310px;
+height: 64px;
+left: 1083px;
+top: 2084px;
+
+font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 109.9%;
+/* or 22px */
+
+text-align: center;
+letter-spacing: 0.115em;
 
 color: #000000;
 }
