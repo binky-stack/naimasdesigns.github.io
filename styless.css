@@ -1,21 +1,21 @@
 body, header{
 position: relative;
-width: 1440px;
-height: 2368px;
-background: #A3C3E0;
-overflow-x: hidden;
+width: 1152px;
+height: 700px;
+
+background: #FFFFFF;
 }
 
 h1{
 position: absolute;
 width: 573px;
-height: 30px;
-left: 1073px;
-top: 40px;
+height: 56px;
+left: 44px;
+top: 58px;
 
-font-family: Montaga;
-font-style: bold;
-font-weight: normal;
+font-family: Pragati Narrow;
+font-style: normal;
+font-weight: bold;
 font-size: 30px;
 line-height: 109.9%;
 /* or 33px */
@@ -32,45 +32,44 @@ color: black;
 
 nav{
 position: absolute;
-width: 1157px;
-height: 280px;
-left: 70px;
-top: 127px;
+width: 1200px;
+height: 21px;
+left: 550px;
+top: 290px;
 
-
-font-family: Lato, sans-serif;
+font-family: ABeeZee;
 font-style: normal;
 font-weight: normal;
 font-size: 20px;
 line-height: 109.9%;
 /* or 22px */
 
-letter-spacing: 0.1em;
+letter-spacing: 0.2em;
 
 color: #000000;
+word-spacing: 1em;
 }
 
 nav a:hover{
-color: white;
+color: red;
 }
 
 hr{
 position: absolute;
-width: 1290px;
+width: 1775px;
 height: 0px;
-left: 70px;
+left: -13px;
 top: 353px;
 
-background: #000000;
-border: 1px solid #000000;
+border: 3px solid #000000;
 }
 
 .rowone #earone{
 position: absolute;
 width: 277px;
 height: 386px;
-left: 84px;
-top: 435px;
+left: 67px;
+top: 405px;
 
 background: #000000;
 }
@@ -78,8 +77,8 @@ background: #000000;
 position: absolute;
 width: 277px;
 height: 386px;
-left: 583px;
-top: 435px;
+left: 530px;
+top: 405px;
 
 background: #000000;
 }
@@ -88,8 +87,8 @@ background: #000000;
 position: absolute;
 width: 277px;
 height: 386px;
-left: 1083px;
-top: 435px;
+left: 1007px;
+top: 405px;
 
 background: #000000;
 
@@ -97,12 +96,12 @@ background: #000000;
 
 .rowone h1{
 position: absolute;
-width: 245px;
+width: 310px;
 height: 64px;
-left: 90px;
-top: 830px;
+left: 21px;
+top: 811px;
 
-font-family: 'Raleway', sans-serif;
+font-family: ABeeZee;
 font-style: normal;
 font-weight: normal;
 font-size: 20px;
@@ -110,7 +109,7 @@ line-height: 109.9%;
 /* or 33px */
 
 text-align: center;
-letter-spacing: 0.1em;
+letter-spacing: 0.2em;
 
 color: #000000;
 }
@@ -119,10 +118,10 @@ color: #000000;
 position: absolute;
 width: 310px;
 height: 64px;
-left: 567px;
-top: 849px;
+left: 464px;
+top: 811px;
 
-font-family: 'Raleway', sans-serif;
+font-family: ABeeZee;
 font-style: normal;
 font-weight: normal;
 font-size: 20px;
@@ -130,7 +129,7 @@ line-height: 109.9%;
 /* or 22px */
 
 text-align: center;
-letter-spacing: 0.115em;
+letter-spacing: 0.2em;
 
 color: #000000;
 }
