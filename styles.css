@@ -1,37 +1,17 @@
 body, header{
 position: relative;
-width: 1440px;
+width: 1152px;
 height: 700px;
 
-background: #BBDF8D;
-overflow-x: hidden;
+background: #FFFFFF;
 }
 
 h1{
 position: absolute;
-width: 520px;
-height: 219px;
-left: 150px;
-top: 293px;
-
-font-family: Montaga;
-font-style: normal;
-font-weight: normal;
-font-size: 80px;
-line-height: 109.9%;
-/* or 88px */
-
-letter-spacing: 0.2em;
-
-color: #266376;
-}
-
-h2{
-position: absolute;
-width: 486px;
-height: 112px;
-left: 327px;
-top: 490px;
+width: 281px;
+height: 133px;
+left: 49px;
+top: 43px;
 
 font-family: Montaga;
 font-style: normal;
@@ -42,15 +22,34 @@ line-height: 109.9%;
 
 letter-spacing: 0.2em;
 
-color: #266376;
+color: #000000;
+}
+
+h2{
+position: absolute;
+width: 457px;
+height: 104px;
+left: 174px;
+top: 167px;
+
+font-family: Montaga;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 109.9%;
+/* or 33px */
+
+letter-spacing: 0.2em;
+
+color: #000000;
 }
 
 h3{
 position: absolute;
 width: 216px;
 height: 64px;
-left: 1050px;
-top: 472px;
+left: 467px;
+top: 364px;
 
 font-family: Montaga;
 font-style: normal;
@@ -61,11 +60,13 @@ line-height: 109.9%;
 
 letter-spacing: 0.2em;
 
+color: #000000;
+
 }
 
 h3 a{
 text-decoration: none;
-color:#266376;
+color: black;
 }
 
 span{
