@@ -1,0 +1,151 @@
+body, header{
+position: relative;
+width: 1440px;
+height: 2368px;
+background: #FFFFFF;
+overflow-x: hidden;
+}
+
+h1{
+position: absolute;
+width: 573px;
+height: 30px;
+left: 65px;
+top: 60px;
+
+font-family: Montaga;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 109.9%;
+/* or 33px */
+
+letter-spacing: 0.2em;
+
+color: #000000;
+}
+
+nav a{
+text-decoration: none;
+color: black;
+}
+
+nav{
+position: absolute;
+width: 1157px;
+height: 21px;
+left: 800px;
+top: 211px;
+
+font-family: Gudea;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 109.9%;
+/* or 33px */
+
+letter-spacing: 0.1em;
+
+color: #000000;
+}
+
+hr{
+position: absolute;
+width: 1290px;
+height: 0px;
+left: 70px;
+top: 353px;
+
+background: #000000;
+border: 1px solid #000000;
+}
+
+.rowone #earone{
+position: absolute;
+width: 277px;
+height: 386px;
+left: 84px;
+top: 435px;
+
+background: rgba(196, 196, 196, 0.42);
+}
+.rowone #eartwo{
+position: absolute;
+width: 277px;
+height: 386px;
+left: 583px;
+top: 435px;
+
+background: rgba(196, 196, 196, 0.42);
+}
+
+.rowone #earthree{
+position: absolute;
+width: 277px;
+height: 386px;
+left: 1083px;
+top: 435px;
+
+background: rgba(196, 196, 196, 0.42);
+
+}
+
+.rowone h1{
+position: absolute;
+width: 245px;
+height: 64px;
+left: 90px;
+top: 830px;
+
+font-family: Gudea;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 109.9%;
+/* or 33px */
+
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #000000;
+}
+
+.rowone h2{
+position: absolute;
+width: 310px;
+height: 64px;
+left: 567px;
+top: 830px;
+
+font-family: Gudea;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 109.9%;
+/* or 33px */
+
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #000000;
+}
+
+.rowone h3{
+position: absolute;
+width: 245px;
+height: 64px;
+left: 1093px;
+top: 830px;
+
+font-family: Gudea;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 109.9%;
+/* or 33px */
+
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #000000;
+}
