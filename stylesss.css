@@ -1,0 +1,69 @@
+body, header{
+position: relative;
+width: 1440px;
+height: 400px;
+background: #EBDBFF;
+}
+
+
+h1{
+position: absolute;
+width: 573px;
+height: 30px;
+left: 1073px;
+top: 40px;
+
+font-family: Montaga;
+font-style: bold;
+font-weight: normal;
+font-size: 30px;
+line-height: 109.9%;
+/* or 33px */
+
+letter-spacing: 0.2em;
+
+color: #000000;
+}
+
+nav a{
+text-decoration: none;
+color: black;
+}
+
+nav{
+position: absolute;
+width: 1157px;
+height: 280px;
+left: 70px;
+top: 127px;
+
+
+font-family: Lato, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 109.9%;
+/* or 22px */
+
+letter-spacing: 0.1em;
+
+color: #000000;
+}
+
+nav a:hover{
+color: white;
+}
+
+p{
+position: absolute;
+width: 1200px;
+height: 0px;
+left: 100px;
+top: 400px;
+
+font-family: Lato, sans-serif;
+font-size: 20px;
+line-height: 2em;
+border: 2px solid black;
+box-sizing: border-box;
+}
