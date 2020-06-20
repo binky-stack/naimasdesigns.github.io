@@ -4,6 +4,7 @@ width: 1440px;
 height: 700px;
 
 background: #BBDF8D;
+overflow-x: hidden;
 }
 
 h1{
@@ -48,7 +49,7 @@ h3{
 position: absolute;
 width: 216px;
 height: 64px;
-left: 1140px;
+left: 1050px;
 top: 472px;
 
 font-family: Montaga;
