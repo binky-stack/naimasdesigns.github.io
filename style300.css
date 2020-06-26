@@ -112,7 +112,7 @@ nav {
     .nav-title{  flex-direction: column;
         justify-content: center;
         margin-left: 0;
-        font-size:15pt;}
+        font-size:25pt;}
 }
 
 @media screen and (max-width: 300px) {
@@ -126,5 +126,5 @@ nav {
     .nav-title{  flex-direction: column;
         justify-content: center;
         margin-left: 0; 
-    font-size:15pt;}
+    font-size:25pt;}
 }
