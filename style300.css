@@ -113,3 +113,16 @@ nav {
         justify-content: center;
         margin-left: 0; }
 }
+
+@media screen and (max-width: 300px) {
+    nav {
+        flex-direction: column;
+        justify-content: center;
+    }
+    .navbar li:first-child {
+        margin-left: 0;
+    }
+    .nav-title{  flex-direction: column;
+        justify-content: center;
+        margin-left: 0; }
+}
