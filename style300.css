@@ -72,6 +72,7 @@ nav {
 
 
 
+
 @media screen and (max-width: 700px) {
     nav {
         flex-direction: column;
@@ -80,6 +81,9 @@ nav {
     .navbar li:first-child {
         margin-left: 0;
     }
+    .nav-title{  flex-direction: column;
+        justify-content: center;
+        margin-left: 0; }
 }
 
 
@@ -91,6 +95,9 @@ nav {
     .navbar li:first-child {
         margin-left: 0;
     }
+    .nav-title{  flex-direction: column;
+        justify-content: center;
+        margin-left: 0; }
 }
 
 
@@ -102,4 +109,7 @@ nav {
     .navbar li:first-child {
         margin-left: 0;
     }
+    .nav-title{  flex-direction: column;
+        justify-content: center;
+        margin-left: 0; }
 }
