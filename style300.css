@@ -71,6 +71,29 @@ nav {
 
 
 
+
+@media screen and (max-width: 700px) {
+    nav {
+        flex-direction: column;
+        justify-content: center;
+    }
+    .navbar li:first-child {
+        margin-left: 0;
+    }
+}
+
+
+@media screen and (max-width: 800px) {
+    nav {
+        flex-direction: column;
+        justify-content: center;
+    }
+    .navbar li:first-child {
+        margin-left: 0;
+    }
+}
+
+
 @media screen and (max-width: 600px) {
     nav {
         flex-direction: column;
