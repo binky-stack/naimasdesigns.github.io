@@ -1,0 +1,114 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.artist-title{
+	font-family: 'Montaga',serif;
+	font-size: 50px;
+	letter-spacing: 0.5em;
+
+	margin-top: 20%;
+	
+	padding-left: 10%;
+	color: black;
+}
+
+.back i{
+	text-decoration: none;
+	color: black;
+}
+
+a{
+
+	text-decoration: none;
+	color: black;
+}
+
+.designs
+{
+font-family: 'Montaga';
+font-size: 20px;
+margin-left: 20%;
+
+letter-spacing: 1em;
+}
+
+#hero
+{
+	padding: 10%;
+	margin-left: 60%;
+	margin-top: -13%;
+
+	font-family: 'Montaga';
+	font-size: 30px;
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 750px) {
+    .artist-title{
+ 	margin-left: -5%;
+ 	font-size: 29px;
+    width: 100%
+  }
+#hero{
+	margin-top: 40%;
+	font-size: 20px;
+}
+}
+
+@media screen and (max-width: 500px) {
+     .artist-title{
+ 	margin-left: -5%;
+ 	font-size: 29px;
+    width: 100%
+  }
+#hero{
+	margin-top: 40%;
+	font-size: 20px;
+}
+}
+@media screen and (max-width: 400px) {
+
+  .artist-title{
+ 	margin-left: -5%;
+ 	font-size: 29px;
+    width: 100%
+  }
+#hero{
+	margin-top: 40%;
+	font-size: 20px;
+}
+}
+
+@media screen and (max-width: 600px) {
+
+  .artist-title{
+ 	margin-left: -5%;
+ 	font-size: 29px;
+    width: 100%
+  }
+#hero{
+	margin-top: 40%;
+	font-size: 20px;
+}
+}
+
+
+@media screen and (max-width: 900px) {
+  .artist-title{
+ 	margin-left: -5%;
+ 	font-size: 29px;
+    width: 100%
+  }
+#hero{
+	margin-top: 40%;
+	font-size: 20px;
+}
+}
